@@ -16,4 +16,3 @@ console.log(edad);
 
 const nacimiento  = 1999
 console.log(nacimiento);
-
