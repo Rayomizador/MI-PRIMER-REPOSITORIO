@@ -16,3 +16,9 @@ console.log(edad);
 
 const nacimiento  = 1999
 console.log(nacimiento);
+
+console.log("El script funciona correctamente")
+
+const titulo = document.getElementById("titulo");
+titulo.textContent="texto modificado por coppel"
+
